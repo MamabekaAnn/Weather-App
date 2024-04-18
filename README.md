@@ -1,4 +1,3 @@
-markdown
 # My Weather Application
 
 This is a simple weather application built using HTML, CSS, and JavaScript. It will allow users to search for a city and view its current weather conditions, including temperature, humidity, wind speed, and weather condition.
@@ -11,7 +10,8 @@ This is a simple weather application built using HTML, CSS, and JavaScript. It w
 
 ## Screenshots
 
-![Screenshot from 2024-04-18 10-06-15](https://github.com/MamabekaAnn/Weather-App/assets/107418604/410ad893-5286-469c-86a9-902286d593a9)
+![Screenshot from 2024-04-18 10-23-01](https://github.com/MamabekaAnn/Weather-App/assets/107418604/4fda02c9-3db2-432d-bba8-881c1f79f4ad)
+
 
 
 ## Installation
