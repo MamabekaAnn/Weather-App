@@ -28,10 +28,12 @@ Usage
 Enter the name of the city you want to check the weather for in the search input.
 Click on the "Search" button or press Enter.
 View the current weather details displayed on the screen.
-Technologies Used
+
+Technologies Used:
 HTML
 CSS
 JavaScript
+
 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
@@ -42,8 +44,6 @@ Author
 Mamabeka Ann
 Acknowledgments
 OpenWeather for providing the weather data API.
-typescript
-Copy code
 
 Replace `[your-username]` with your GitHub username and add any screenshots or additional acknowledgments as needed.
 
